@@ -1,3 +1,3 @@
-# COMP 683: A MS Student's Perspective (C6AMP)
+# COMP 683: Computational Biology, Spring 2026
 
-This repo contains my homework solutions, journal clubs, and final project for COMP 683 in Spring 2026, taught by Prof. Natalie Stanley.
+This repo contains my homework solutions, journal clubs, and final project for COMP 683 (26Spring), taught by Prof. Natalie Stanley.
