@@ -1,0 +1,9 @@
+/readings/
+/lecture_notes/
+*/.DS_Store
+
+/journal_club/jc1/*.csv
+/journal_club/jc1/*.rds
+/journal_club/jc1/original.r
+
+/homeworks/hw1/outputs/
