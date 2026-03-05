@@ -1,6 +1,6 @@
 /readings/
 /lecture_notes/
-*/.DS_Store
+.DS_Store
 
 /journal_club/jc1/*.csv
 /journal_club/jc1/*.rds
